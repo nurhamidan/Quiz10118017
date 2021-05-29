@@ -739,7 +739,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="16dp"
-                android:layout_marginBottom="24dp"
+                android:layout_marginBottom="26dp"
                 android:background="@drawable/bg_rounded_green_600"
                 android:fontFamily="@font/work_sans"
                 android:text="@string/laporan_button"
@@ -749,6 +749,19 @@
                 android:textSize="14dp"/>
 
 
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="24dp"/>
+
+            </LinearLayout>
         </LinearLayout>
 
     </LinearLayout>
