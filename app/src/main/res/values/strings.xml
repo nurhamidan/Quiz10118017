@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Quiz10118017</string>
+    <string name="digiteam">DigiTeam</string>
+    <string name="digiteam_jargon">Digital Together Everyone Achieve More</string>
+    <string name="jabar_digital_service">Jabar Digital Service</string>
+    <string name="user">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="job">UI Designer</string>
+    <string name="jam_kerja_title">Jam Kerja Bulan Ini</string>
+    <string name="jam_kerja_sub_title_1">Jam kerja kamu bulan ini: </string>
+    <string name="jam_kerja_value">130.53 JAM</string>
+    <string name="jam_kerja_sub_title_2">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="jam_kerja_button">Checkin</string>
+    <string name="laporan_title">Laporan Kamu</string>
+    <string name="laporan_bulan_title_1">Maret</string>
+    <string name="laporan_bulan_title_2">April</string>
+    <string name="laporan_button">Buat Laporan</string>
+    <string name="menu_1">Izin</string>
+    <string name="menu_2">Kehadiran</string>
+    <string name="menu_3">Laporan</string>
+    <string name="menu_4">Agenda</string>
+    <string name="menu_5">Booking</string>
+    <string name="menu_6">Wiki</string>
 </resources>
